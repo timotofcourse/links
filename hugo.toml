@@ -41,7 +41,7 @@ disableKinds = ["taxonomy", "term"]
     # { slack = "https://workspace.url/team/userid" },
     # { snapchat = "https://snapchat.com/add/username" },
     # { soundcloud = "https://soundcloud.com/username" },
-    # { spotify = "https://spotify.com/user/username" },
+    { spotify = "https://open.spotify.com/user/31k3r3jwml7ebyk3rffcykhhlym4?si=aff4f33a84524c54" },
     # { stack-exchange = "https://stackexchange.com/users/userid/username" },
     # { stack-overflow = "https://stackoverflow.com/users/userid/username" },
     { steam = "https://steamcommunity.com/id/timot_of_course/" },
