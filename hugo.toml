@@ -58,6 +58,7 @@ disableKinds = ["taxonomy", "term"]
     # { youtube = "https://youtube.com/username" },
     { link = "https://modrinth.com/user/Timot" },
     { link = "https://www.curseforge.com/members/timot/projects" },
+    { link = "https://pixelfed.social/i/web/profile/583681200800987430" },
   ]
 
 [module]
