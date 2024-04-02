@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
     { pixelfed = { href = "https://pixelfed.social/i/web/profile/583681200800987430", text = "Pixelfed"} },
     { spotify = { href = "https://open.spotify.com/user/31k3r3jwml7ebyk3rffcykhhlym4?si=aff4f33a84524c54", text = "Spotify"} },
     { steam = "https://steamcommunity.com/id/timot_of_course/" },
-    { tiktok = "https://www.patreon.com/timot_of_course" },
+    { tiktok = "https://www.tiktok.com/@timoteo_fbp" },
     { twitch = "https://twitch.tv/timot_of_course" },
     { youtube = { href = "https://www.youtube.com/channel/UC2LkGjFhn0Oky9NckkNUimw", text = "Canal Principal"}},
     { youtube = {href = "https://www.youtube.com/@MuseudoTimot-fb3mm", text = "Museu"} },
