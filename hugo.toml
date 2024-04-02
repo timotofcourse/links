@@ -14,18 +14,19 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { amazon = "https://www.amazon.es/hz/wishlist/ls/3DW3RDCI5SUC1?ref_=wl_share" },
+    { curseforge = { href = "https://www.curseforge.com/members/timot/projects", text = "Curseforge"} },
     { github = "https://github.com/timotofcourse" },
     { mastodon = "https://mastodon.social/@timot_of_course" },
+    { modrinth = { href = "https://modrinth.com/user/Timot", text = "Modrinth"} },
     { patreon = "https://www.patreon.com/timot_of_course" },
+    { pixelfed = { href = "https://pixelfed.social/i/web/profile/583681200800987430", text = "Pixelfed"} },
     { spotify = { href = "https://open.spotify.com/user/31k3r3jwml7ebyk3rffcykhhlym4?si=aff4f33a84524c54", text = "Spotify"} },
     { steam = "https://steamcommunity.com/id/timot_of_course/" },
     { tiktok = "https://www.patreon.com/timot_of_course" },
     { twitch = "https://twitch.tv/timot_of_course" },
     { youtube = { href = "https://www.youtube.com/channel/UC2LkGjFhn0Oky9NckkNUimw", text = "Canal Principal"}},
     { youtube = {href = "https://www.youtube.com/@MuseudoTimot-fb3mm", text = "Museu"} },
-    { modrinth = { href = "https://modrinth.com/user/Timot", text = "Modrinth"} },
-    { curseforge = { href = "https://www.curseforge.com/members/timot/projects", text = "Curseforge"} },
-    { pixelfed = { href = "https://pixelfed.social/i/web/profile/583681200800987430", text = "Pixelfed"} },
+    
   ]
 
 [module]
